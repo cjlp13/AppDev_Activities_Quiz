@@ -1,16 +1,17 @@
-# updated_cv
+# INSTRUCTIONS
 
-A new Flutter project.
+## Logging In
 
-## Getting Started
+To log in into the application, enter these following username and password:
 
-This project is a starting point for a Flutter application.
+### Username
+```
+justine13
+```
+### Password
+```
+justine123
+```
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Uploading Profile Picture
+Make sure to click/tap the **Profile Icon** to upload a picture. This will redirect you to the device's galley where you can choose an image as your profile picture.
